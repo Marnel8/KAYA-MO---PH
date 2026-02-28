@@ -44,6 +44,7 @@ function HistoryContent() {
             alt="KayaMo logo"
             width={120}
             height={32}
+            className="brand-logo"
             style={{ height: "auto" }}
           />
         </div>

@@ -1,15 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 220" width="980" height="220" role="img" aria-label="KAYAMO logo with Philippine flag text fill">
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="8 47 756 123" width="756" height="123" role="img" aria-label="KAYAMO logo with Philippine flag text fill">
   <defs>
     <!-- Philippine flag pattern used as TEXT FILL -->
     <pattern id="phFlag" patternUnits="userSpaceOnUse" width="980" height="220">
-      <rect width="980" height="110" fill="#0038A8"></rect>
-      <rect y="110" width="980" height="110" fill="#CE1126"></rect>
-      <polygon points="0,0 300,110 0,220" fill="#FFFFFF"></polygon>
-      <circle cx="120" cy="110" r="28" fill="#FCD116"></circle>
+      <rect width="980" height="110" fill="#0038A8"/>
+      <rect y="110" width="980" height="110" fill="#CE1126"/>
+      <polygon points="0,0 300,110 0,220" fill="#FFFFFF"/>
+      <circle cx="120" cy="110" r="28" fill="#FCD116"/>
     </pattern>
 
     <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.15"></feDropShadow>
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.15"/>
     </filter>
   </defs>
 

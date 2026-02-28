@@ -84,6 +84,7 @@ function LoginContent() {
               alt="KayaMo logo"
               width={260}
               height={69}
+              className="brand-logo"
               priority
               style={{ height: "auto" }}
             />
