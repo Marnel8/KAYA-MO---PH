@@ -2,7 +2,6 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { useState } from "react";
 import { useAuth } from "@/hooks/useAuth";
 import { signOutUser } from "@/lib/auth";
 import ExamCard from "@/components/ExamCard";
@@ -24,25 +23,6 @@ const examInfo = {
 
 export default function CatalogPage() {
   const { user, loading } = useAuth();
-  const [seeding, setSeeding] = useState(false);
-
-  const handleSeed = async () => {
-    try {
-      setSeeding(true);
-      const res = await fetch("/api/seed", { method: "POST" });
-      const data = await res.json();
-      if (!res.ok) {
-        throw new Error(data?.error || "Seed failed");
-      }
-      alert(
-        `Seed complete: ${data.seeded} questions (${data.pro} Professional, ${data.subPro} Sub-Professional).`
-      );
-    } catch (err) {
-      alert((err as Error).message || "Failed to seed questions.");
-    } finally {
-      setSeeding(false);
-    }
-  };
 
   return (
     <PageTransition>
@@ -57,13 +37,6 @@ export default function CatalogPage() {
           />
         </div>
         <div className="flex gap-3 items-center">
-          <button
-            className="btn btn-secondary btn-sm"
-            onClick={handleSeed}
-            disabled={seeding}
-          >
-            {seeding ? "Seeding..." : "Seed Questions"}
-          </button>
           {loading ? null : user ? (
             <>
               <Link href="/history" className="btn btn-ghost btn-sm">
