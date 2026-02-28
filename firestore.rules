@@ -1,0 +1,30 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Questions: public read, no client writes
+    match /questions/{questionId} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // Users: only owner can read/write their own profile
+    match /users/{uid} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+    }
+
+    // Attempts: only owner
+    match /attempts/{attemptId} {
+      allow read: if request.auth != null && request.auth.uid == resource.data.userId;
+      allow create: if request.auth != null && request.auth.uid == request.resource.data.userId;
+      allow update: if request.auth != null && request.auth.uid == resource.data.userId;
+      allow delete: if false;
+
+      // Answers subcollection: only attempt owner
+      match /answers/{answerId} {
+        allow read, write: if request.auth != null
+          && request.auth.uid == get(/databases/$(database)/documents/attempts/$(attemptId)).data.userId;
+      }
+    }
+  }
+}

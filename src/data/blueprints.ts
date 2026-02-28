@@ -1,0 +1,14 @@
+import type { Blueprint } from "@/types";
+
+export const blueprints: Blueprint[] = [
+  {
+    examType: "CSC_PRO",
+    simulation: { questionCount: 80, timeLimitMinutes: 170 },
+    practice: { questionCount: 20, timeLimitMinutes: null },
+  },
+  {
+    examType: "CSC_SUBPRO",
+    simulation: { questionCount: 80, timeLimitMinutes: 170 },
+    practice: { questionCount: 20, timeLimitMinutes: null },
+  },
+];

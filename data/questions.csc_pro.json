@@ -1,0 +1,886 @@
+[
+  {
+    "id": "pro_num_01",
+    "examType": "CSC_PRO",
+    "category": "Numerical Ability",
+    "text": "What is 15% of 240?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "30"
+      },
+      {
+        "id": "b",
+        "text": "36"
+      },
+      {
+        "id": "c",
+        "text": "42"
+      },
+      {
+        "id": "d",
+        "text": "48"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"36\". Use arithmetic and the relationships in the problem statement to evaluate each option."
+  },
+  {
+    "id": "pro_num_02",
+    "examType": "CSC_PRO",
+    "category": "Numerical Ability",
+    "text": "A government employee earns ₱25,000 per month. If she receives a 12% salary increase, what is her new monthly salary?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "₱27,000"
+      },
+      {
+        "id": "b",
+        "text": "₱27,500"
+      },
+      {
+        "id": "c",
+        "text": "₱28,000"
+      },
+      {
+        "id": "d",
+        "text": "₱28,500"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"₱28,000\". Use arithmetic and the relationships in the problem statement to evaluate each option."
+  },
+  {
+    "id": "pro_num_03",
+    "examType": "CSC_PRO",
+    "category": "Numerical Ability",
+    "text": "If 3x + 7 = 22, what is the value of x?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "3"
+      },
+      {
+        "id": "b",
+        "text": "5"
+      },
+      {
+        "id": "c",
+        "text": "7"
+      },
+      {
+        "id": "d",
+        "text": "9"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"5\". Use arithmetic and the relationships in the problem statement to evaluate each option."
+  },
+  {
+    "id": "pro_num_04",
+    "examType": "CSC_PRO",
+    "category": "Numerical Ability",
+    "text": "A rectangular lot has a length of 40 meters and a width of 25 meters. What is its area in square meters?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "800"
+      },
+      {
+        "id": "b",
+        "text": "900"
+      },
+      {
+        "id": "c",
+        "text": "1,000"
+      },
+      {
+        "id": "d",
+        "text": "1,100"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"1,000\". Use arithmetic and the relationships in the problem statement to evaluate each option."
+  },
+  {
+    "id": "pro_num_05",
+    "examType": "CSC_PRO",
+    "category": "Numerical Ability",
+    "text": "What is the next number in the series: 2, 6, 18, 54, ___?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "108"
+      },
+      {
+        "id": "b",
+        "text": "128"
+      },
+      {
+        "id": "c",
+        "text": "162"
+      },
+      {
+        "id": "d",
+        "text": "180"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"162\". Use arithmetic and the relationships in the problem statement to evaluate each option."
+  },
+  {
+    "id": "pro_ana_01",
+    "examType": "CSC_PRO",
+    "category": "Analytical Ability",
+    "text": "All government employees must follow the Code of Conduct. Juan is a government employee. Therefore:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Juan may choose to follow the Code of Conduct"
+      },
+      {
+        "id": "b",
+        "text": "Juan must follow the Code of Conduct"
+      },
+      {
+        "id": "c",
+        "text": "Juan is exempt from the Code of Conduct"
+      },
+      {
+        "id": "d",
+        "text": "The Code of Conduct does not apply to Juan"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Juan must follow the Code of Conduct\". Apply the given premises logically and eliminate choices that introduce unsupported assumptions."
+  },
+  {
+    "id": "pro_ana_02",
+    "examType": "CSC_PRO",
+    "category": "Analytical Ability",
+    "text": "If it rains, the outdoor event will be cancelled. The outdoor event was not cancelled. What can be concluded?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "It rained"
+      },
+      {
+        "id": "b",
+        "text": "It did not rain"
+      },
+      {
+        "id": "c",
+        "text": "The event was moved indoors"
+      },
+      {
+        "id": "d",
+        "text": "Nothing can be concluded"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"It did not rain\". Apply the given premises logically and eliminate choices that introduce unsupported assumptions."
+  },
+  {
+    "id": "pro_ana_03",
+    "examType": "CSC_PRO",
+    "category": "Analytical Ability",
+    "text": "In a group of 5 employees — Ana, Ben, Cara, Dan, and Ella — Ana is taller than Ben. Cara is shorter than Dan but taller than Ella. Ben is taller than Dan. Who is the shortest?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Ben"
+      },
+      {
+        "id": "b",
+        "text": "Cara"
+      },
+      {
+        "id": "c",
+        "text": "Dan"
+      },
+      {
+        "id": "d",
+        "text": "Ella"
+      }
+    ],
+    "correctChoiceId": "d",
+    "explanation": "The correct answer is \"Ella\". Apply the given premises logically and eliminate choices that introduce unsupported assumptions."
+  },
+  {
+    "id": "pro_ana_04",
+    "examType": "CSC_PRO",
+    "category": "Analytical Ability",
+    "text": "BOOK is to READING as FORK is to:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Cooking"
+      },
+      {
+        "id": "b",
+        "text": "Eating"
+      },
+      {
+        "id": "c",
+        "text": "Cutting"
+      },
+      {
+        "id": "d",
+        "text": "Washing"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Eating\". Apply the given premises logically and eliminate choices that introduce unsupported assumptions."
+  },
+  {
+    "id": "pro_ana_05",
+    "examType": "CSC_PRO",
+    "category": "Analytical Ability",
+    "text": "Which number does not belong in the series: 3, 9, 27, 80, 243?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "9"
+      },
+      {
+        "id": "b",
+        "text": "27"
+      },
+      {
+        "id": "c",
+        "text": "80"
+      },
+      {
+        "id": "d",
+        "text": "243"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"80\". Apply the given premises logically and eliminate choices that introduce unsupported assumptions."
+  },
+  {
+    "id": "pro_ver_01",
+    "examType": "CSC_PRO",
+    "category": "Verbal Ability",
+    "text": "Choose the word most similar in meaning to DILIGENT:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Lazy"
+      },
+      {
+        "id": "b",
+        "text": "Hardworking"
+      },
+      {
+        "id": "c",
+        "text": "Careless"
+      },
+      {
+        "id": "d",
+        "text": "Indifferent"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Hardworking\". Use context clues, grammar rules, and precise word meaning to identify the best choice."
+  },
+  {
+    "id": "pro_ver_02",
+    "examType": "CSC_PRO",
+    "category": "Verbal Ability",
+    "text": "Choose the word most opposite in meaning to TRANSPARENT:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Clear"
+      },
+      {
+        "id": "b",
+        "text": "Obvious"
+      },
+      {
+        "id": "c",
+        "text": "Opaque"
+      },
+      {
+        "id": "d",
+        "text": "Visible"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"Opaque\". Use context clues, grammar rules, and precise word meaning to identify the best choice."
+  },
+  {
+    "id": "pro_ver_03",
+    "examType": "CSC_PRO",
+    "category": "Verbal Ability",
+    "text": "The manager _____ the new policy to all department heads yesterday.",
+    "choices": [
+      {
+        "id": "a",
+        "text": "disseminate"
+      },
+      {
+        "id": "b",
+        "text": "disseminates"
+      },
+      {
+        "id": "c",
+        "text": "disseminated"
+      },
+      {
+        "id": "d",
+        "text": "disseminating"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"disseminated\". Use context clues, grammar rules, and precise word meaning to identify the best choice."
+  },
+  {
+    "id": "pro_ver_04",
+    "examType": "CSC_PRO",
+    "category": "Verbal Ability",
+    "text": "Which sentence is grammatically correct?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Each of the employees have their own desk."
+      },
+      {
+        "id": "b",
+        "text": "Each of the employees has his or her own desk."
+      },
+      {
+        "id": "c",
+        "text": "Each of the employees have his or her own desk."
+      },
+      {
+        "id": "d",
+        "text": "Each of the employee has their own desk."
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Each of the employees has his or her own desk.\". Use context clues, grammar rules, and precise word meaning to identify the best choice."
+  },
+  {
+    "id": "pro_ver_05",
+    "examType": "CSC_PRO",
+    "category": "Verbal Ability",
+    "text": "Read the passage: 'Public servants must uphold integrity in the performance of their duties. They should avoid any act that would diminish public trust in the government.' What is the main idea?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Public servants should seek promotions"
+      },
+      {
+        "id": "b",
+        "text": "Integrity and public trust are essential for government workers"
+      },
+      {
+        "id": "c",
+        "text": "Government employees should follow their supervisors"
+      },
+      {
+        "id": "d",
+        "text": "Public trust is not important"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Integrity and public trust are essential for government workers\". Use context clues, grammar rules, and precise word meaning to identify the best choice."
+  },
+  {
+    "id": "pro_ver_06",
+    "examType": "CSC_PRO",
+    "category": "Verbal Ability",
+    "text": "Choose the correctly spelled word:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Beaurocracy"
+      },
+      {
+        "id": "b",
+        "text": "Bureauracy"
+      },
+      {
+        "id": "c",
+        "text": "Bureaucracy"
+      },
+      {
+        "id": "d",
+        "text": "Beurocracy"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"Bureaucracy\". Use context clues, grammar rules, and precise word meaning to identify the best choice."
+  },
+  {
+    "id": "pro_gen_01",
+    "examType": "CSC_PRO",
+    "category": "Philippine Constitution",
+    "text": "Under the 1987 Philippine Constitution, sovereignty resides in the:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "President"
+      },
+      {
+        "id": "b",
+        "text": "Congress"
+      },
+      {
+        "id": "c",
+        "text": "People"
+      },
+      {
+        "id": "d",
+        "text": "Supreme Court"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"People\". Recall core constitutional principles and select the option consistent with the 1987 Constitution."
+  },
+  {
+    "id": "pro_gen_02",
+    "examType": "CSC_PRO",
+    "category": "Philippine Constitution",
+    "text": "How many articles are there in the 1987 Philippine Constitution?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "14"
+      },
+      {
+        "id": "b",
+        "text": "16"
+      },
+      {
+        "id": "c",
+        "text": "18"
+      },
+      {
+        "id": "d",
+        "text": "20"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"18\". Recall core constitutional principles and select the option consistent with the 1987 Constitution."
+  },
+  {
+    "id": "pro_gen_03",
+    "examType": "CSC_PRO",
+    "category": "Philippine Constitution",
+    "text": "The Philippine Bill of Rights is found in which article of the 1987 Constitution?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Article II"
+      },
+      {
+        "id": "b",
+        "text": "Article III"
+      },
+      {
+        "id": "c",
+        "text": "Article IV"
+      },
+      {
+        "id": "d",
+        "text": "Article V"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Article III\". Recall core constitutional principles and select the option consistent with the 1987 Constitution."
+  },
+  {
+    "id": "pro_gen_04",
+    "examType": "CSC_PRO",
+    "category": "Philippine Constitution",
+    "text": "The separation of Church and State is enshrined in which section of the Constitution?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Article II, Section 6"
+      },
+      {
+        "id": "b",
+        "text": "Article III, Section 5"
+      },
+      {
+        "id": "c",
+        "text": "Article II, Section 5"
+      },
+      {
+        "id": "d",
+        "text": "Article I, Section 3"
+      }
+    ],
+    "correctChoiceId": "a",
+    "explanation": "The correct answer is \"Article II, Section 6\". Recall core constitutional principles and select the option consistent with the 1987 Constitution."
+  },
+  {
+    "id": "pro_gen_05",
+    "examType": "CSC_PRO",
+    "category": "Code of Conduct (RA 6713)",
+    "text": "Republic Act No. 6713 is also known as the:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Anti-Graft and Corrupt Practices Act"
+      },
+      {
+        "id": "b",
+        "text": "Code of Conduct and Ethical Standards for Public Officials and Employees"
+      },
+      {
+        "id": "c",
+        "text": "Administrative Code of 1987"
+      },
+      {
+        "id": "d",
+        "text": "Civil Service Act"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Code of Conduct and Ethical Standards for Public Officials and Employees\". Match the prompt requirements with the most accurate and complete option."
+  },
+  {
+    "id": "pro_gen_06",
+    "examType": "CSC_PRO",
+    "category": "Code of Conduct (RA 6713)",
+    "text": "Under RA 6713, public officials and employees must submit their Statement of Assets, Liabilities, and Net Worth (SALN) on or before:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "January 31"
+      },
+      {
+        "id": "b",
+        "text": "March 31"
+      },
+      {
+        "id": "c",
+        "text": "April 30"
+      },
+      {
+        "id": "d",
+        "text": "June 30"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"April 30\". Match the prompt requirements with the most accurate and complete option."
+  },
+  {
+    "id": "pro_gen_07",
+    "examType": "CSC_PRO",
+    "category": "Code of Conduct (RA 6713)",
+    "text": "Which of the following is NOT one of the norms of conduct for public officials under RA 6713?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Commitment to public interest"
+      },
+      {
+        "id": "b",
+        "text": "Professionalism"
+      },
+      {
+        "id": "c",
+        "text": "Political partisanship"
+      },
+      {
+        "id": "d",
+        "text": "Justness and sincerity"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"Political partisanship\". Match the prompt requirements with the most accurate and complete option."
+  },
+  {
+    "id": "pro_gen_08",
+    "examType": "CSC_PRO",
+    "category": "Governance",
+    "text": "The Civil Service Commission (CSC) is the central personnel agency of the Philippine government. It is established under which article of the Constitution?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Article VII"
+      },
+      {
+        "id": "b",
+        "text": "Article VIII"
+      },
+      {
+        "id": "c",
+        "text": "Article IX-B"
+      },
+      {
+        "id": "d",
+        "text": "Article X"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"Article IX-B\". Match the prompt requirements with the most accurate and complete option."
+  },
+  {
+    "id": "pro_gen_09",
+    "examType": "CSC_PRO",
+    "category": "Governance",
+    "text": "What is the term of office of the CSC Chairman?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "5 years"
+      },
+      {
+        "id": "b",
+        "text": "6 years"
+      },
+      {
+        "id": "c",
+        "text": "7 years"
+      },
+      {
+        "id": "d",
+        "text": "9 years"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"7 years\". Match the prompt requirements with the most accurate and complete option."
+  },
+  {
+    "id": "pro_gen_10",
+    "examType": "CSC_PRO",
+    "category": "Governance",
+    "text": "Republic Act No. 3019 is also known as the:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Revised Penal Code"
+      },
+      {
+        "id": "b",
+        "text": "Anti-Graft and Corrupt Practices Act"
+      },
+      {
+        "id": "c",
+        "text": "Code of Conduct for Government Workers"
+      },
+      {
+        "id": "d",
+        "text": "Ombudsman Act"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Anti-Graft and Corrupt Practices Act\". Match the prompt requirements with the most accurate and complete option."
+  },
+  {
+    "id": "pro_ana_06",
+    "examType": "CSC_PRO",
+    "category": "Analytical Ability",
+    "text": "If the day after tomorrow is Saturday, what day is today?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Wednesday"
+      },
+      {
+        "id": "b",
+        "text": "Thursday"
+      },
+      {
+        "id": "c",
+        "text": "Friday"
+      },
+      {
+        "id": "d",
+        "text": "Sunday"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Thursday\". Apply the given premises logically and eliminate choices that introduce unsupported assumptions."
+  },
+  {
+    "id": "pro_num_06",
+    "examType": "CSC_PRO",
+    "category": "Numerical Ability",
+    "text": "A water tank can hold 500 liters. If it is currently 60% full, how many more liters are needed to fill it completely?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "150"
+      },
+      {
+        "id": "b",
+        "text": "200"
+      },
+      {
+        "id": "c",
+        "text": "250"
+      },
+      {
+        "id": "d",
+        "text": "300"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"200\". Use arithmetic and the relationships in the problem statement to evaluate each option."
+  },
+  {
+    "id": "pro_ver_07",
+    "examType": "CSC_PRO",
+    "category": "Verbal Ability",
+    "text": "Choose the word most similar in meaning to PRUDENT:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Reckless"
+      },
+      {
+        "id": "b",
+        "text": "Cautious"
+      },
+      {
+        "id": "c",
+        "text": "Generous"
+      },
+      {
+        "id": "d",
+        "text": "Stubborn"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Cautious\". Use context clues, grammar rules, and precise word meaning to identify the best choice."
+  },
+  {
+    "id": "pro_gen_11",
+    "examType": "CSC_PRO",
+    "category": "Governance",
+    "text": "The Ombudsman of the Philippines is tasked to:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Enact laws for public welfare"
+      },
+      {
+        "id": "b",
+        "text": "Investigate and prosecute erring government officials"
+      },
+      {
+        "id": "c",
+        "text": "Manage the national budget"
+      },
+      {
+        "id": "d",
+        "text": "Appoint local government officials"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Investigate and prosecute erring government officials\". Match the prompt requirements with the most accurate and complete option."
+  },
+  {
+    "id": "pro_num_07",
+    "examType": "CSC_PRO",
+    "category": "Numerical Ability",
+    "text": "What is the average of 12, 18, 24, 30, and 36?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "22"
+      },
+      {
+        "id": "b",
+        "text": "24"
+      },
+      {
+        "id": "c",
+        "text": "26"
+      },
+      {
+        "id": "d",
+        "text": "28"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"24\". Use arithmetic and the relationships in the problem statement to evaluate each option."
+  },
+  {
+    "id": "pro_ana_07",
+    "examType": "CSC_PRO",
+    "category": "Analytical Ability",
+    "text": "Statement: Some teachers are writers. All writers are readers. Conclusion: Some teachers are readers.",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The conclusion is definitely true"
+      },
+      {
+        "id": "b",
+        "text": "The conclusion is probably true"
+      },
+      {
+        "id": "c",
+        "text": "The conclusion is definitely false"
+      },
+      {
+        "id": "d",
+        "text": "The data is insufficient"
+      }
+    ],
+    "correctChoiceId": "a",
+    "explanation": "The correct answer is \"The conclusion is definitely true\". Apply the given premises logically and eliminate choices that introduce unsupported assumptions."
+  },
+  {
+    "id": "pro_gen_12",
+    "examType": "CSC_PRO",
+    "category": "Philippine Constitution",
+    "text": "Who has the power to declare martial law in the Philippines?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "The Senate President"
+      },
+      {
+        "id": "b",
+        "text": "The Chief Justice"
+      },
+      {
+        "id": "c",
+        "text": "The President"
+      },
+      {
+        "id": "d",
+        "text": "The Secretary of National Defense"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"The President\". Recall core constitutional principles and select the option consistent with the 1987 Constitution."
+  },
+  {
+    "id": "pro_ver_08",
+    "examType": "CSC_PRO",
+    "category": "Verbal Ability",
+    "text": "Neither the manager nor the employees _____ aware of the new policy.",
+    "choices": [
+      {
+        "id": "a",
+        "text": "is"
+      },
+      {
+        "id": "b",
+        "text": "are"
+      },
+      {
+        "id": "c",
+        "text": "was"
+      },
+      {
+        "id": "d",
+        "text": "were"
+      }
+    ],
+    "correctChoiceId": "d",
+    "explanation": "The correct answer is \"were\". Use context clues, grammar rules, and precise word meaning to identify the best choice."
+  }
+]

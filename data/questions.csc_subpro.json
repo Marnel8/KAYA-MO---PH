@@ -1,0 +1,834 @@
+[
+  {
+    "id": "sub_cle_01",
+    "examType": "CSC_SUBPRO",
+    "category": "Clerical Ability",
+    "text": "Arrange the following names in alphabetical order:\n1. Dela Cruz, Maria\n2. Delos Santos, Juan\n3. De Leon, Ana\n4. Dela Peña, Carlos\nWhich is the correct order?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "3, 1, 4, 2"
+      },
+      {
+        "id": "b",
+        "text": "1, 4, 3, 2"
+      },
+      {
+        "id": "c",
+        "text": "3, 1, 2, 4"
+      },
+      {
+        "id": "d",
+        "text": "1, 3, 4, 2"
+      }
+    ],
+    "correctChoiceId": "a",
+    "explanation": "The correct answer is \"3, 1, 4, 2\". Follow filing, ordering, coding, and office-processing rules exactly as presented."
+  },
+  {
+    "id": "sub_cle_02",
+    "examType": "CSC_SUBPRO",
+    "category": "Clerical Ability",
+    "text": "Which of the following numbers is filed correctly in ascending order?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "1023, 1032, 1203, 1302"
+      },
+      {
+        "id": "b",
+        "text": "1032, 1023, 1203, 1302"
+      },
+      {
+        "id": "c",
+        "text": "1302, 1203, 1032, 1023"
+      },
+      {
+        "id": "d",
+        "text": "1023, 1203, 1032, 1302"
+      }
+    ],
+    "correctChoiceId": "a",
+    "explanation": "The correct answer is \"1023, 1032, 1203, 1302\". Follow filing, ordering, coding, and office-processing rules exactly as presented."
+  },
+  {
+    "id": "sub_cle_03",
+    "examType": "CSC_SUBPRO",
+    "category": "Clerical Ability",
+    "text": "A document coded as HR-2025-0437 belongs to which department?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Accounting"
+      },
+      {
+        "id": "b",
+        "text": "Human Resources"
+      },
+      {
+        "id": "c",
+        "text": "Legal"
+      },
+      {
+        "id": "d",
+        "text": "Information Technology"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Human Resources\". Follow filing, ordering, coding, and office-processing rules exactly as presented."
+  },
+  {
+    "id": "sub_cle_04",
+    "examType": "CSC_SUBPRO",
+    "category": "Clerical Ability",
+    "text": "If a memo was received on March 5 and must be acted upon within 10 working days (excluding weekends), what is the deadline?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "March 15"
+      },
+      {
+        "id": "b",
+        "text": "March 17"
+      },
+      {
+        "id": "c",
+        "text": "March 19"
+      },
+      {
+        "id": "d",
+        "text": "March 21"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"March 19\". Follow filing, ordering, coding, and office-processing rules exactly as presented."
+  },
+  {
+    "id": "sub_cle_05",
+    "examType": "CSC_SUBPRO",
+    "category": "Clerical Ability",
+    "text": "Which of the following pairs of codes are identical?\nA) PH-4829-LMN vs PH-4829-LMN\nB) QR-9371-XYZ vs QR-9317-XYZ\nC) ST-5624-ABC vs ST-5624-ACB\nD) UV-7183-DEF vs UV-7183-DEG",
+    "choices": [
+      {
+        "id": "a",
+        "text": "A"
+      },
+      {
+        "id": "b",
+        "text": "B"
+      },
+      {
+        "id": "c",
+        "text": "C"
+      },
+      {
+        "id": "d",
+        "text": "D"
+      }
+    ],
+    "correctChoiceId": "a",
+    "explanation": "The correct answer is \"A\". Follow filing, ordering, coding, and office-processing rules exactly as presented."
+  },
+  {
+    "id": "sub_spl_01",
+    "examType": "CSC_SUBPRO",
+    "category": "Spelling",
+    "text": "Which of the following words is CORRECTLY spelled?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Occurence"
+      },
+      {
+        "id": "b",
+        "text": "Occurrence"
+      },
+      {
+        "id": "c",
+        "text": "Ocurrence"
+      },
+      {
+        "id": "d",
+        "text": "Occurrance"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Occurrence\". Compare each option letter by letter and choose the standard dictionary form."
+  },
+  {
+    "id": "sub_spl_02",
+    "examType": "CSC_SUBPRO",
+    "category": "Spelling",
+    "text": "Which of the following words is CORRECTLY spelled?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Accomodate"
+      },
+      {
+        "id": "b",
+        "text": "Acommodate"
+      },
+      {
+        "id": "c",
+        "text": "Accommodate"
+      },
+      {
+        "id": "d",
+        "text": "Acomodate"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"Accommodate\". Compare each option letter by letter and choose the standard dictionary form."
+  },
+  {
+    "id": "sub_spl_03",
+    "examType": "CSC_SUBPRO",
+    "category": "Spelling",
+    "text": "Which of the following words is MISSPELLED?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Necessary"
+      },
+      {
+        "id": "b",
+        "text": "Separate"
+      },
+      {
+        "id": "c",
+        "text": "Definately"
+      },
+      {
+        "id": "d",
+        "text": "Environment"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"Definately\". Compare each option letter by letter and choose the standard dictionary form."
+  },
+  {
+    "id": "sub_spl_04",
+    "examType": "CSC_SUBPRO",
+    "category": "Spelling",
+    "text": "Which of the following words is CORRECTLY spelled?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Maintainance"
+      },
+      {
+        "id": "b",
+        "text": "Maintenanace"
+      },
+      {
+        "id": "c",
+        "text": "Maintenance"
+      },
+      {
+        "id": "d",
+        "text": "Maintenence"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"Maintenance\". Compare each option letter by letter and choose the standard dictionary form."
+  },
+  {
+    "id": "sub_grm_01",
+    "examType": "CSC_SUBPRO",
+    "category": "Grammar",
+    "text": "The committee _____ already reached a decision.",
+    "choices": [
+      {
+        "id": "a",
+        "text": "have"
+      },
+      {
+        "id": "b",
+        "text": "has"
+      },
+      {
+        "id": "c",
+        "text": "are"
+      },
+      {
+        "id": "d",
+        "text": "were"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"has\". Apply subject-verb agreement, tense consistency, and pronoun/case rules."
+  },
+  {
+    "id": "sub_grm_02",
+    "examType": "CSC_SUBPRO",
+    "category": "Grammar",
+    "text": "She sings _____ than her sister.",
+    "choices": [
+      {
+        "id": "a",
+        "text": "more better"
+      },
+      {
+        "id": "b",
+        "text": "better"
+      },
+      {
+        "id": "c",
+        "text": "more good"
+      },
+      {
+        "id": "d",
+        "text": "best"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"better\". Apply subject-verb agreement, tense consistency, and pronoun/case rules."
+  },
+  {
+    "id": "sub_grm_03",
+    "examType": "CSC_SUBPRO",
+    "category": "Grammar",
+    "text": "Which sentence is correct?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Me and him went to the office."
+      },
+      {
+        "id": "b",
+        "text": "He and I went to the office."
+      },
+      {
+        "id": "c",
+        "text": "Him and I went to the office."
+      },
+      {
+        "id": "d",
+        "text": "Me and he went to the office."
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"He and I went to the office.\". Apply subject-verb agreement, tense consistency, and pronoun/case rules."
+  },
+  {
+    "id": "sub_grm_04",
+    "examType": "CSC_SUBPRO",
+    "category": "Grammar",
+    "text": "The report, along with the attachments, _____ submitted yesterday.",
+    "choices": [
+      {
+        "id": "a",
+        "text": "were"
+      },
+      {
+        "id": "b",
+        "text": "was"
+      },
+      {
+        "id": "c",
+        "text": "are"
+      },
+      {
+        "id": "d",
+        "text": "have been"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"was\". Apply subject-verb agreement, tense consistency, and pronoun/case rules."
+  },
+  {
+    "id": "sub_grm_05",
+    "examType": "CSC_SUBPRO",
+    "category": "Grammar",
+    "text": "If I _____ the supervisor, I would approve the request immediately.",
+    "choices": [
+      {
+        "id": "a",
+        "text": "am"
+      },
+      {
+        "id": "b",
+        "text": "was"
+      },
+      {
+        "id": "c",
+        "text": "were"
+      },
+      {
+        "id": "d",
+        "text": "being"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"were\". Apply subject-verb agreement, tense consistency, and pronoun/case rules."
+  },
+  {
+    "id": "sub_voc_01",
+    "examType": "CSC_SUBPRO",
+    "category": "Vocabulary",
+    "text": "What does the word BENEVOLENT mean?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Cruel"
+      },
+      {
+        "id": "b",
+        "text": "Kind and generous"
+      },
+      {
+        "id": "c",
+        "text": "Strict"
+      },
+      {
+        "id": "d",
+        "text": "Indifferent"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Kind and generous\". Choose the word closest in meaning based on standard usage and context."
+  },
+  {
+    "id": "sub_voc_02",
+    "examType": "CSC_SUBPRO",
+    "category": "Vocabulary",
+    "text": "The word OBSOLETE most nearly means:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Modern"
+      },
+      {
+        "id": "b",
+        "text": "Outdated"
+      },
+      {
+        "id": "c",
+        "text": "Essential"
+      },
+      {
+        "id": "d",
+        "text": "Popular"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Outdated\". Choose the word closest in meaning based on standard usage and context."
+  },
+  {
+    "id": "sub_voc_03",
+    "examType": "CSC_SUBPRO",
+    "category": "Vocabulary",
+    "text": "What is the opposite of ABUNDANT?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Plentiful"
+      },
+      {
+        "id": "b",
+        "text": "Scarce"
+      },
+      {
+        "id": "c",
+        "text": "Generous"
+      },
+      {
+        "id": "d",
+        "text": "Sufficient"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Scarce\". Choose the word closest in meaning based on standard usage and context."
+  },
+  {
+    "id": "sub_voc_04",
+    "examType": "CSC_SUBPRO",
+    "category": "Vocabulary",
+    "text": "Choose the word closest in meaning to CREDIBLE:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Doubtful"
+      },
+      {
+        "id": "b",
+        "text": "Believable"
+      },
+      {
+        "id": "c",
+        "text": "Incredible"
+      },
+      {
+        "id": "d",
+        "text": "Suspicious"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Believable\". Choose the word closest in meaning based on standard usage and context."
+  },
+  {
+    "id": "sub_num_01",
+    "examType": "CSC_SUBPRO",
+    "category": "Numerical Reasoning",
+    "text": "What is 25% of 480?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "100"
+      },
+      {
+        "id": "b",
+        "text": "110"
+      },
+      {
+        "id": "c",
+        "text": "120"
+      },
+      {
+        "id": "d",
+        "text": "130"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"120\". Translate the verbal information into operations, then compute and verify the result."
+  },
+  {
+    "id": "sub_num_02",
+    "examType": "CSC_SUBPRO",
+    "category": "Numerical Reasoning",
+    "text": "If a pen costs ₱12.50 each, how much will 8 pens cost?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "₱96.00"
+      },
+      {
+        "id": "b",
+        "text": "₱100.00"
+      },
+      {
+        "id": "c",
+        "text": "₱104.00"
+      },
+      {
+        "id": "d",
+        "text": "₱108.00"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"₱100.00\". Translate the verbal information into operations, then compute and verify the result."
+  },
+  {
+    "id": "sub_num_03",
+    "examType": "CSC_SUBPRO",
+    "category": "Numerical Reasoning",
+    "text": "A clerk files 45 documents per hour. How many documents can she file in a 7-hour work day?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "295"
+      },
+      {
+        "id": "b",
+        "text": "305"
+      },
+      {
+        "id": "c",
+        "text": "315"
+      },
+      {
+        "id": "d",
+        "text": "325"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"315\". Translate the verbal information into operations, then compute and verify the result."
+  },
+  {
+    "id": "sub_num_04",
+    "examType": "CSC_SUBPRO",
+    "category": "Numerical Reasoning",
+    "text": "What is the next number in the pattern: 5, 10, 20, 40, ___?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "60"
+      },
+      {
+        "id": "b",
+        "text": "70"
+      },
+      {
+        "id": "c",
+        "text": "80"
+      },
+      {
+        "id": "d",
+        "text": "100"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"80\". Translate the verbal information into operations, then compute and verify the result."
+  },
+  {
+    "id": "sub_num_05",
+    "examType": "CSC_SUBPRO",
+    "category": "Numerical Reasoning",
+    "text": "If 3 kilos of rice cost ₱165, how much does 1 kilo cost?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "₱45"
+      },
+      {
+        "id": "b",
+        "text": "₱50"
+      },
+      {
+        "id": "c",
+        "text": "₱55"
+      },
+      {
+        "id": "d",
+        "text": "₱60"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"₱55\". Translate the verbal information into operations, then compute and verify the result."
+  },
+  {
+    "id": "sub_gen_01",
+    "examType": "CSC_SUBPRO",
+    "category": "General Information",
+    "text": "The national hero of the Philippines is:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Andres Bonifacio"
+      },
+      {
+        "id": "b",
+        "text": "Jose Rizal"
+      },
+      {
+        "id": "c",
+        "text": "Emilio Aguinaldo"
+      },
+      {
+        "id": "d",
+        "text": "Apolinario Mabini"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Jose Rizal\". Use standard civics and governance knowledge relevant to Philippine public service."
+  },
+  {
+    "id": "sub_gen_02",
+    "examType": "CSC_SUBPRO",
+    "category": "General Information",
+    "text": "The Philippines gained independence from the United States on:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "June 12, 1898"
+      },
+      {
+        "id": "b",
+        "text": "July 4, 1946"
+      },
+      {
+        "id": "c",
+        "text": "February 25, 1986"
+      },
+      {
+        "id": "d",
+        "text": "January 1, 1901"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"July 4, 1946\". Use standard civics and governance knowledge relevant to Philippine public service."
+  },
+  {
+    "id": "sub_gen_03",
+    "examType": "CSC_SUBPRO",
+    "category": "General Information",
+    "text": "How many regions are there in the Philippines?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "15"
+      },
+      {
+        "id": "b",
+        "text": "16"
+      },
+      {
+        "id": "c",
+        "text": "17"
+      },
+      {
+        "id": "d",
+        "text": "18"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"17\". Use standard civics and governance knowledge relevant to Philippine public service."
+  },
+  {
+    "id": "sub_gen_04",
+    "examType": "CSC_SUBPRO",
+    "category": "General Information",
+    "text": "Which government agency is responsible for civil service examinations?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "CHED"
+      },
+      {
+        "id": "b",
+        "text": "PRC"
+      },
+      {
+        "id": "c",
+        "text": "CSC"
+      },
+      {
+        "id": "d",
+        "text": "DOLE"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"CSC\". Use standard civics and governance knowledge relevant to Philippine public service."
+  },
+  {
+    "id": "sub_gen_05",
+    "examType": "CSC_SUBPRO",
+    "category": "General Information",
+    "text": "The longest river in the Philippines is:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Pasig River"
+      },
+      {
+        "id": "b",
+        "text": "Cagayan River"
+      },
+      {
+        "id": "c",
+        "text": "Agusan River"
+      },
+      {
+        "id": "d",
+        "text": "Pampanga River"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Cagayan River\". Use standard civics and governance knowledge relevant to Philippine public service."
+  },
+  {
+    "id": "sub_grm_06",
+    "examType": "CSC_SUBPRO",
+    "category": "Grammar",
+    "text": "Please give the documents to _____ at the front desk.",
+    "choices": [
+      {
+        "id": "a",
+        "text": "I"
+      },
+      {
+        "id": "b",
+        "text": "myself"
+      },
+      {
+        "id": "c",
+        "text": "me"
+      },
+      {
+        "id": "d",
+        "text": "mine"
+      }
+    ],
+    "correctChoiceId": "c",
+    "explanation": "The correct answer is \"me\". Apply subject-verb agreement, tense consistency, and pronoun/case rules."
+  },
+  {
+    "id": "sub_voc_05",
+    "examType": "CSC_SUBPRO",
+    "category": "Vocabulary",
+    "text": "The word CONCISE means:",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Long and detailed"
+      },
+      {
+        "id": "b",
+        "text": "Brief and to the point"
+      },
+      {
+        "id": "c",
+        "text": "Confusing"
+      },
+      {
+        "id": "d",
+        "text": "Incomplete"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"Brief and to the point\". Choose the word closest in meaning based on standard usage and context."
+  },
+  {
+    "id": "sub_cle_06",
+    "examType": "CSC_SUBPRO",
+    "category": "Clerical Ability",
+    "text": "In filing, which comes first alphabetically?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "MacArthur"
+      },
+      {
+        "id": "b",
+        "text": "Macaraeg"
+      },
+      {
+        "id": "c",
+        "text": "Macapagal"
+      },
+      {
+        "id": "d",
+        "text": "MacAdam"
+      }
+    ],
+    "correctChoiceId": "d",
+    "explanation": "The correct answer is \"MacAdam\". Follow filing, ordering, coding, and office-processing rules exactly as presented."
+  },
+  {
+    "id": "sub_num_06",
+    "examType": "CSC_SUBPRO",
+    "category": "Numerical Reasoning",
+    "text": "A government office has 24 employees. If 75% are present today, how many are absent?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "4"
+      },
+      {
+        "id": "b",
+        "text": "6"
+      },
+      {
+        "id": "c",
+        "text": "8"
+      },
+      {
+        "id": "d",
+        "text": "10"
+      }
+    ],
+    "correctChoiceId": "b",
+    "explanation": "The correct answer is \"6\". Translate the verbal information into operations, then compute and verify the result."
+  }
+]
